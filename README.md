@@ -1,6 +1,4 @@
-# SecondPythonProject
-
-# Historical Events Visualization
+#EventScope: Visualizing History
 
 ## Overview
 
