@@ -1,4 +1,4 @@
-#EventScope: Visualizing History
+# EventScope: Visualizing History
 
 ## Overview
 
