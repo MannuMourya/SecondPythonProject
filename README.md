@@ -50,3 +50,6 @@ To run this project, you need to have Python installed on your machine. You can 
    ```bash
    git clone https://github.com/yourusername/historical-events-visualization.git
    cd historical-events-visualization
+
+![result](result.png)
+
